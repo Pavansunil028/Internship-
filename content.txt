@@ -1,0 +1,19 @@
+Node js:-
+-open source runtime environment for javascript
+-used for frontend and backend.
+
+Express :-
+-Framework for node js-
+used for creating web applications
+
+Req-res cycle:-
+-communication between client and server side
+
+Database:-
+NoSQL ->Collection form (MongoDB)
+MySQL-> tabukar form
+
+HTTP Methods :-
+POST-Create/Edit into Database
+GET:- fetch data 
+PUT/PATCH - Edit 
